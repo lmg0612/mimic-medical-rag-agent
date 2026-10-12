@@ -1,0 +1,10 @@
+no
+denies
+deny
+without
+negative for
+absence of
+not
+never
+lack of
+free of
